@@ -5,5 +5,3 @@ function power(base, exponent){
 	}
 	return result;
 }
-
-alert(power(2,10));
